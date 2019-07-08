@@ -1,4 +1,4 @@
-# CardDetection
+# LogiReg
 Python 机器学习实战：根据成绩预测大学生能否被高校录取
 
 博客连接：https://blog.csdn.net/qq_40938646/article/details/95046637
